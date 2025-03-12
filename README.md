@@ -3,4 +3,4 @@
 
 ![Image](https://github.com/user-attachments/assets/951034b4-e6e7-4da0-9fc3-6e46d17df00d)
 <h2 https://github.com/Joser040/Amigo-Secreto/blob/main/Primer-desafio/foto.jpg?raw=true width=115><br><sub>Jose Rojas</sub></h2>
-[<img src="https://avatars.githubusercontent.com/u/37356058?v=4"
+<img src="https://avatars.githubusercontent.com/u/37356058?v=4"
